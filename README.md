@@ -34,3 +34,9 @@ You can access the live version of the application on [Streamlit Community Cloud
    ```bash
    git clone https://github.com/UshaKiran31/streamlit-breastcancer-predict.git
    cd streamlit-breastcancer-predict
+2. Install dependencies::
+   ```bash
+   pip install -r requirements.txt
+3. Run the app:
+   ```bash
+   streamlit run app.py
