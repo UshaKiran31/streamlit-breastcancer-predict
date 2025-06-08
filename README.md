@@ -6,7 +6,7 @@ The Breast Cancer Diagnosis app is a machine learning-powered tool designed to a
 
 The app can be used by manually inputting the measurements or by connecting it to a cytology lab to obtain the data directly from a machine. **Note:** The connection to the laboratory machine is not a part of the app itself.
 
-This app was developed as a machine learning exercise using the public dataset [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). Please note that this dataset may not be reliable for real-world clinical use. This project was created for educational purposes only.
+This app was developed as a machine learning exercise using the public dataset [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)). Please note that this dataset may not be reliable for real-world clinical use. This project was created for educational purposes only.
 
 ### 🚀 Live Demo
 
@@ -32,5 +32,5 @@ You can access the live version of the application on **[Streamlit Community Clo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/UshaKiran31/breast-cancer-diagnosis.git
-   cd breast-cancer-diagnosis
+   git clone https://github.com/UshaKiran31/streamlit-breastcancer-predict.git
+   cd streamlit-breastcancer-predict
