@@ -10,7 +10,7 @@ This app was developed as a machine learning exercise using the public dataset [
 
 ### 🚀 Live Demo
 
-You can access the live version of the application on **[Streamlit Community Cloud]([https://streamlit.io/](https://app-breastcancer-predict.streamlit.app/))**.
+You can access the live version of the application on [Streamlit Community Cloud](https://app-breastcancer-predict.streamlit.app/)).
 
 ---
 
